@@ -1,7 +1,8 @@
-class Harsh:
+class tarang:
     age=50
     print("***********JAI BABA KI***********")
 
-x=Harsh()
+x=Tarang()
 print(x.age)
+
 
